@@ -1,0 +1,8 @@
+{
+    "name"          : "lib_bz_cargo",
+    "target"        : "armv6",
+    "description"   : "[name]",
+    "scripts"       : "./lib_bz_cargo",
+    "data"          : ["CARGO"],
+    "control"       : ["Cargo_Control"]
+}
